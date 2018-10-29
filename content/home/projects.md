@@ -34,7 +34,11 @@ filter_default = 0
    tag = "*"
 
  [[filter]]
+<<<<<<< HEAD
    name = "gitbook电子书"
+=======
+   name = "gitbok电子书"
+>>>>>>> 32913917278eb1493e97f196c7a8d1d455bf666e
    tag = "gitbook"
 
  [[filter]]
