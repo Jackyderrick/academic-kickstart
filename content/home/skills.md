@@ -38,5 +38,11 @@ weight = 7
   icon_pack = "fas"
   name = "Photography"
   description = "10%"
+  
+  [[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "linux"
+  description = "90%"
 
 +++
