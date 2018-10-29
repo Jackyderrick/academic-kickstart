@@ -24,13 +24,13 @@ weight = 7
 [[feature]]
   icon = "fa-python"
   icon_pack = "fab"
-  name = "R"
+  name = "python"
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
+  icon = "fa-java"
+  icon_pack = "fab"
+  name = "Java开发"
   description = "100%"  
   
 [[feature]]
