@@ -39,7 +39,7 @@ date_format = "January 2006"
   company_url = ""
   location = "无锡"
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """艺术系大专生."""
+  date_end = "2019-12-31"
+  description = """努力学习的艺术系大专生."""
 
 +++
