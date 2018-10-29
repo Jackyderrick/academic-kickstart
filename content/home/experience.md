@@ -11,7 +11,7 @@ weight = 8
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "January 2006"
+date_format = "January 2018"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -34,12 +34,12 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "student"
+  company = "University suxin"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  location = "Wuxi"
+  date_start = "2016-09-01"
+  date_end = "2019-6-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
