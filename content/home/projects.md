@@ -35,7 +35,6 @@ filter_default = 0
 
  [[filter]]
    name = "gitbook电子书"
-   name = "gitbok电子书"
    tag = "gitbook"
 
  [[filter]]
