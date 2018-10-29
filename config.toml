@@ -349,6 +349,6 @@ enableGitInfo = false
   #  name = "Your name in Chinese..."
   # role = "Your role in Chinese..."
   # [[languages.zh.menu.main]]
-  #   name = "Wo"
-  #  url = "#about"
+  # name = "Wo"
+  # url = "#about"
   # weight = 1
