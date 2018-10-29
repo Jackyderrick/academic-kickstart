@@ -36,10 +36,10 @@ date_format = "January 2006"
 [[experience]]
   title = "学生"
   company = "University suxin"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  company_url = "http://www.jsit.edu.cn/"
+  location = "无锡"
+  date_start = "2016-09-01"
+  date_end = "2019-06-31"
+  description = """小小的艺术大专生."""
 
 +++
