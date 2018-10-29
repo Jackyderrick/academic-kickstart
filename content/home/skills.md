@@ -22,7 +22,7 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "fab fa-python"
+  icon = "fa-python"
   icon_pack = "fab"
   name = "R"
   description = "90%"
