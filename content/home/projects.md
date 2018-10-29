@@ -38,7 +38,7 @@ filter_default = 0
    tag = "gitbook"
 
  [[filter]]
-  name = "Other"
+  name = "个人网站"
    tag = "Demo"
 
 +++
