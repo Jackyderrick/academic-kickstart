@@ -34,8 +34,8 @@ filter_default = 0
    tag = "*"
 
  [[filter]]
-   name = "个人电子书档案"
-   tag = "个人电子书档案"
+   name = "gitbok电子书"
+   tag = "gitbook"
 
  [[filter]]
   name = "Other"
