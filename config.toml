@@ -285,17 +285,17 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
+  name = "出版物"
   url = "#publications_selected"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
+  name = "帖子"
   url = "#posts"
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
+  name = "工程"
   url = "#projects"
   weight = 4
 
