@@ -250,7 +250,7 @@ enableGitInfo = false
     link = "#contact"  # For a direct email link, use "jixu770050597@gmail.com".
 
   [[params.social]]
-    icon = "twitter"
+    icon = "weibo"
     icon_pack = "fab"
     link = "https://twitter.com/GeorgeCushen"
 
