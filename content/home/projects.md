@@ -40,10 +40,10 @@ filter_default = 0
 # [[filter]]
  #  name = "Other"
 #   tag = "Demo"
-[[filter]] name = "全部" tag = "*"
+[[filter]] name = "All" tag = "*"
 
-[[filter]] name = "网站" tag = "Deep Learning"
+[[filter]] name = "Deep Learning" tag = "Deep Learning"
 
-[[filter]] name = "gitbooks" tag = "Demo"
+[[filter]] name = "Other" tag = "Demo"
 +++
 
