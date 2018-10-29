@@ -42,4 +42,13 @@ date_format = "January 2006"
   date_end = "2019-12-31"
   description = """努力学习的艺术系大专生."""
 
+[[experience]]
+  title = "苏信邦开发"
+  company = "suxinbang"
+  company_url = "https://coding.net/u/derrick86/p/suxinbang-APP-V1"
+  location = "无锡"
+  date_start = "2016-01-01"
+  date_end = "2019-12-31"
+  description = """手机苏信校园客户端."""
+  
 +++
