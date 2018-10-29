@@ -291,7 +291,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "帖子"
-  url = "#recent-publications"
+  url = "#recent_publications"
   weight = 3
 
 [[menu.main]]
