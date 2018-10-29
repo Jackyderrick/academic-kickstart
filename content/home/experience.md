@@ -34,10 +34,10 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "学生"
-  company = "University X"
+  title = "student"
+  company = "江苏信息"
   company_url = ""
-  location = "California"
+  location = "无锡"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
   description = """艺术系大专生."""
