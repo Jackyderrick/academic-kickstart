@@ -252,7 +252,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "weibo"
     icon_pack = "fab"
-    link = "https://twitter.com/GeorgeCushen"
+    link = "http://weibo.com/u/5850199459?is_all=1"
 
   [[params.social]]
     icon = "google-scholar"
