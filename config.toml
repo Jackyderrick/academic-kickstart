@@ -257,7 +257,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "soundcloud"
     icon_pack = "fab"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "music.you12580.cn"
 
   [[params.social]]
     icon = "github"
