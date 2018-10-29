@@ -280,7 +280,7 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "Home"
+  name = "主页"
   url = "#about"
   weight = 1
 
@@ -300,7 +300,7 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
-  name = "Contact"
+  name = "联系方式"
   url = "#contact"
   weight = 6
 
