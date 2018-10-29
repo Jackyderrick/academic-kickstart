@@ -34,7 +34,7 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "student"
+  title = "学生"
   company = "University suxin"
   company_url = ""
   location = "California"
