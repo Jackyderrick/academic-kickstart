@@ -34,9 +34,9 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "student"
+  title = "Student"
   company = "江苏信息"
-  company_url = ""
+  company_url = "http://www.jsit.edu.cn/"
   location = "无锡"
   date_start = "2016-01-01"
   date_end = "2019-12-31"
