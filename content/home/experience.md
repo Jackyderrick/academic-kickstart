@@ -37,9 +37,9 @@ date_format = "January 2018"
   title = "student"
   company = "University suxin"
   company_url = ""
-  location = "Wuxi"
+  location = "无锡"
   date_start = "2016-09-01"
   date_end = "2019-6-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """江苏信息职业技术学院的一个小小的专科生."""
 
 +++
