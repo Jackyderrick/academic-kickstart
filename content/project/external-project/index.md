@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "External Project"
+title = "derrick技术博客"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
@@ -13,7 +13,7 @@ summary = "An example of linking directly to an external project website using `
 tags = ["Demo"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://example.org"
+external_link = "https://you12580.us"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
