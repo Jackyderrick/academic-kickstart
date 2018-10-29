@@ -255,8 +255,8 @@ enableGitInfo = false
     link = "http://weibo.com/u/5850199459?is_all=1"
 
   [[params.social]]
-    icon = "telegram"
-    icon_pack = "ai"
+    icon = "soundcloud"
+    icon_pack = "fab"
     link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
