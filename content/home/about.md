@@ -12,8 +12,8 @@ weight = 1
   interests = [
     "室内艺术设计",
     "环境艺术设计",
-    "python开发爬虫"
-    "网站前端开发"
+    "python开发爬虫",
+    "网站前端开发",
     "Andriod开发"
   ]
 
