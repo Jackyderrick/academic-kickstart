@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Internal Project"
+title = "女朋友的实时情绪波动图谱"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "An example of using the in-built project page."
+summary = "通过Python通过与女朋友聊天获取她的实时情绪波动图谱."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
