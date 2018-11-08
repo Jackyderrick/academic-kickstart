@@ -16,7 +16,7 @@ tags = ["gitbook"]
 external_link = "https://you12580.us"
 
 # Featured image
-# To use, add an image named `fengniao.png` to your project's folder. 
+# To use, add an image named `featured02.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
   caption = "Photo by Toa Heftiba on Unsplash"
