@@ -26,8 +26,7 @@ external_link = ""
   focal_point = "Smart"
 +++
 
-<h2>直男眼里 的 没有对象也要谈恋爱之女朋友的情绪监控 之 分词</h2>
-<blockquote><p>Blog : <a href="http://www.cnblogs.com/LexMoon/" rel="nofollow">Antzuhl</a></p></blockquote>
+
 <blockquote><p>Github : <a href="https://github.com/CasterWx">CasterWx</a> <a href="https://github.com/CasterWx/python-girlfriend-mood/blob/master/CS.jpg?raw=true" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CasterWx/python-girlfriend-mood/raw/master/CS.jpg?raw=true" alt="todo" /></a></p></blockquote>
 <p>&#x1f61a;&#x1f61a; 通过女朋友的一句话分析她的心情 。</p>
 <p>Analyze her mood through her girlfriend&#8217;s words .</p>
