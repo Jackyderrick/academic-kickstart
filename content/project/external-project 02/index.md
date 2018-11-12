@@ -13,7 +13,7 @@ summary = "手机苏信安卓客户端."
 tags = ["gitbook"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://you12580.us"
+external_link = "https://coding.net/u/derrick86/p/suxinbang-APP-V1/git"
 
 # Featured image
 # To use, add an image named `featured02.jpg/png` to your project's folder. 
